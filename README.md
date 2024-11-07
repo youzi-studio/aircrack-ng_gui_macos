@@ -1,3 +1,5 @@
+> ⚠️ **警告**: 在 macOS Sonoma（最高至14.4版本）中，Apple 对 AirPort 和相关命令行工具做了一些更改。具体而言，之前用于管理 AirPort 无线连接的命令行界面在新版系统中已不再直接可用。
+> 
 # Aircrack-ng GUI for macOS
 
 ## 简介
